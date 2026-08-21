@@ -1,0 +1,7 @@
+streamlit
+yt-dlp
+moviepy
+faster-whisper
+google-generativeai
+pillow
+numpy

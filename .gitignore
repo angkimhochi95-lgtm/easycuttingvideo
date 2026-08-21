@@ -1,0 +1,6 @@
+﻿*.mp4
+*.png
+saved_projects/
+__pycache__/
+active_session_cache.json
+saved_projects/
